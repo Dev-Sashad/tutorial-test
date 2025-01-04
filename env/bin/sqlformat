@@ -1,4 +1,4 @@
-#!/Users/reaprite/Desktop/software/testing/django_projects/tutorial-test/env/bin/python3.11
+#!/Users/user/Desktop/projects/tutorial-test/env/bin/python3.13
 # -*- coding: utf-8 -*-
 import re
 import sys
